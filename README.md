@@ -1,5 +1,1 @@
-# jwt-auth
-
-## A jwt boilerplate made with node, express, and other stuff 
-
-### using postgress, making validations etc..
+go barber backend application from the rocketseat bootcamp 7.0
